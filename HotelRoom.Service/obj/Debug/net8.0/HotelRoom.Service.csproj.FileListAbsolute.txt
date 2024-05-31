@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\bin\Debug\net8.0\HotelRoom.Service.deps.json
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\bin\Debug\net8.0\HotelRoom.Service.dll
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\bin\Debug\net8.0\HotelRoom.Service.pdb
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.AssemblyInfo.cs
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoo.8B35B11C.Up2Date
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.dll
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\refint\HotelRoom.Service.dll
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\HotelRoom.Service.pdb
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\obj\Debug\net8.0\ref\HotelRoom.Service.dll
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\bin\Debug\net8.0\HotelRoom.Data.dll
+C:\Users\PC\source\repos\HotelRoomApp\HotelRoom.Service\bin\Debug\net8.0\HotelRoom.Data.pdb

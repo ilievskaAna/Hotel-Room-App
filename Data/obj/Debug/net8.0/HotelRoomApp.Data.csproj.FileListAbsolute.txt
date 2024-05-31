@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\HotelRoomApp\Data\bin\Debug\net8.0\HotelRoomApp.Data.deps.json
+C:\Users\PC\source\repos\HotelRoomApp\Data\bin\Debug\net8.0\HotelRoomApp.Data.runtimeconfig.json
+C:\Users\PC\source\repos\HotelRoomApp\Data\bin\Debug\net8.0\HotelRoomApp.Data.dll
+C:\Users\PC\source\repos\HotelRoomApp\Data\bin\Debug\net8.0\HotelRoomApp.Data.pdb
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.AssemblyInfo.cs
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.dll
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\refint\HotelRoomApp.Data.dll
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.pdb
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\HotelRoomApp.Data.genruntimeconfig.cache
+C:\Users\PC\source\repos\HotelRoomApp\Data\obj\Debug\net8.0\ref\HotelRoomApp.Data.dll

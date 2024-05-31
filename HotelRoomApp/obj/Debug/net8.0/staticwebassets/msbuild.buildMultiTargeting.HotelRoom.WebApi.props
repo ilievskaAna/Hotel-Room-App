@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HotelRoom.WebApi.props" />
+</Project>
